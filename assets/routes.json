@@ -1,0 +1,13 @@
+{
+    "routes": 
+        [{
+            "link": "google.com",
+            "text": "google",
+            "image": "assets/images/default.jpg"
+        },
+        {
+            "link": "coder.andresbg.ninja",
+            "text": "Programmer/Coder",
+            "image": "assets/images/default.jpg"
+        }]
+}
